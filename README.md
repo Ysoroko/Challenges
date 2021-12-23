@@ -12,5 +12,6 @@ Learning in progress
 [Input + eval](https://github.com/Ysoroko/HackerRank/blob/master/Python/input.py)
 [Exceptions](https://github.com/Ysoroko/HackerRank/blob/master/Python/exceptions.py)
 [Sets](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets.py)
+[Sets Operations](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets_operations.py)
 
 
