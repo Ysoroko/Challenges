@@ -2,6 +2,8 @@
 
 A list of interesting challenges and topics I did on HackerRank website I would like to remember
 
+Learning in progress
+
 
 [Python](https://github.com/Ysoroko/HackerRank/tree/master/Python) | 
 -------------|
