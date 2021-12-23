@@ -11,5 +11,6 @@ Learning in progress
 [String Formatting](https://github.com/Ysoroko/HackerRank/blob/master/Python/string_formatting.py) |
 [Input + eval](https://github.com/Ysoroko/HackerRank/blob/master/Python/input.py)
 [Exceptions](https://github.com/Ysoroko/HackerRank/blob/master/Python/exceptions.py)
+[Sets](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets.py)
 
 
