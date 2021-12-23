@@ -15,5 +15,6 @@ Learning in progress
 [Sets Operations](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets_operations.py)
 [Sets Mutations](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets_mutations.py)
 [Captain's Room](https://github.com/Ysoroko/HackerRank/tree/master/Python/captain_room.py)
+[Subset](https://github.com/Ysoroko/HackerRank/blob/master/Python/subset.py)
 
 
