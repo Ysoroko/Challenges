@@ -17,6 +17,6 @@ Learning in progress
 [Captain's Room](https://github.com/Ysoroko/HackerRank/tree/master/Python/captain_room.py)
 [Subset](https://github.com/Ysoroko/HackerRank/blob/master/Python/subset.py)
 [Collections.counter](https://github.com/Ysoroko/HackerRank/blob/master/Python/collections.counter.py)
-[Calendar Module](https://github.com/Ysoroko/HackerRank/blob/master/Python/collections.calendar_module.py)
+[Calendar Module](https://github.com/Ysoroko/HackerRank/blob/master/Python/calendar_module.py)
 
 
