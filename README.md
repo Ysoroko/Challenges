@@ -18,5 +18,6 @@ Learning in progress
 [Subset](https://github.com/Ysoroko/HackerRank/blob/master/Python/subset.py)
 [Collections.counter](https://github.com/Ysoroko/HackerRank/blob/master/Python/collections.counter.py)
 [Calendar Module](https://github.com/Ysoroko/HackerRank/blob/master/Python/calendar_module.py)
+[Itertools Combinations](https://github.com/Ysoroko/HackerRank/blob/master/Python/itertools.combinations.py)
 
 
