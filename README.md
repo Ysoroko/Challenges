@@ -20,5 +20,6 @@ Work in progress
 [Calendar Module](https://github.com/Ysoroko/HackerRank/blob/master/Python/calendar_module.py)
 [Itertools Combinations](https://github.com/Ysoroko/HackerRank/blob/master/Python/itertools.combinations.py)
 [Camel Case](https://github.com/Ysoroko/HackerRank/blob/master/Python/camelcase.py)
+[Flipping Bits](https://github.com/Ysoroko/HackerRank/blob/master/Python/flipping_bits.py)
 
 
