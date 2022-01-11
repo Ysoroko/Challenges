@@ -21,5 +21,6 @@ Work in progress
 [Itertools Combinations](https://github.com/Ysoroko/HackerRank/blob/master/Python/itertools.combinations.py)
 [Camel Case](https://github.com/Ysoroko/HackerRank/blob/master/Python/camelcase.py)
 [Flipping Bits](https://github.com/Ysoroko/HackerRank/blob/master/Python/flipping_bits.py)
+[Pangrams](https://github.com/Ysoroko/HackerRank/blob/master/Python/pangrams.py)
 
 
