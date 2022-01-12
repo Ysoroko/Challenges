@@ -7,8 +7,8 @@ Work in progress
 
 [Python](https://github.com/Ysoroko/HackerRank/tree/master/Python) | [SQL](https://github.com/Ysoroko/HackerRank/tree/master/SQL)
 -------------|-------------|
-[List Comprehensions](https://github.com/Ysoroko/HackerRank/blob/master/Python/list_comprehensions.py) | [Intro](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station3.sql)
-[String Formatting](https://github.com/Ysoroko/HackerRank/blob/master/Python/string_formatting.py) | [Intro 2](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station4.sql)
+[List Comprehensions](https://github.com/Ysoroko/HackerRank/blob/master/Python/list_comprehensions.py) | [Distinct Even IDs](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station3.sql)
+[String Formatting](https://github.com/Ysoroko/HackerRank/blob/master/Python/string_formatting.py) | [Count duplicate cities](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station4.sql)
 [Input + eval](https://github.com/Ysoroko/HackerRank/blob/master/Python/input.py)
 [Exceptions](https://github.com/Ysoroko/HackerRank/blob/master/Python/exceptions.py)
 [Sets](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets.py)
