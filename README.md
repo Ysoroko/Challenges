@@ -14,7 +14,7 @@ Work in progress
 [Sets](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets.py) | [Ends with vowels](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station7.sql)
 [Sets Operations](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets_operations.py)  | [Starts and ends with vowels](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station8.sql)
 [Sets Mutations](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets_mutations.py) | [Does not start with vowels](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station9.sql)
-[Captain's Room](https://github.com/Ysoroko/HackerRank/tree/master/Python/captain_room.py)
+[Captain's Room](https://github.com/Ysoroko/HackerRank/tree/master/Python/captain_room.py) | [Does not end with vowels](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station10.sql)
 [Subset](https://github.com/Ysoroko/HackerRank/blob/master/Python/subset.py)
 [Collections.counter](https://github.com/Ysoroko/HackerRank/blob/master/Python/collections.counter.py)
 [Calendar Module](https://github.com/Ysoroko/HackerRank/blob/master/Python/calendar_module.py)
