@@ -10,7 +10,7 @@ Work in progress
 [List Comprehensions](https://github.com/Ysoroko/HackerRank/blob/master/Python/list_comprehensions.py) | [Distinct Even IDs](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station3.sql)
 [String Formatting](https://github.com/Ysoroko/HackerRank/blob/master/Python/string_formatting.py) | [Count duplicate cities](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station4.sql)
 [Input + eval](https://github.com/Ysoroko/HackerRank/blob/master/Python/input.py) | [Min and max](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station5.sql)
-[Exceptions](https://github.com/Ysoroko/HackerRank/blob/master/Python/exceptions.py)
+[Exceptions](https://github.com/Ysoroko/HackerRank/blob/master/Python/exceptions.py) | [Starts with vowels](https://github.com/Ysoroko/HackerRank/blob/master/SQL/weather_observation_station6.sql)
 [Sets](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets.py)
 [Sets Operations](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets_operations.py)
 [Sets Mutations](https://github.com/Ysoroko/HackerRank/blob/master/Python/sets_mutations.py)
