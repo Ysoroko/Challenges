@@ -23,5 +23,7 @@ Work in progress
 [Flipping Bits](https://github.com/Ysoroko/HackerRank/blob/master/Python/flipping_bits.py)
 [Pangrams](https://github.com/Ysoroko/HackerRank/blob/master/Python/pangrams.py)
 [Mars Exploration](https://github.com/Ysoroko/HackerRank/blob/master/Python/mars_exploration.py)
+[Permuting Two Arrays](https://github.com/Ysoroko/HackerRank/blob/master/Python/permuting_two_arrays.py)
+[Sales by Match](https://github.com/Ysoroko/HackerRank/blob/master/Python/sales_by_match.py)
 
 
