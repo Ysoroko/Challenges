@@ -26,5 +26,6 @@ Work in progress
 [Permuting Two Arrays](https://github.com/Ysoroko/HackerRank/blob/master/Python/permuting_two_arrays.py)
 [Sales by Match](https://github.com/Ysoroko/HackerRank/blob/master/Python/sales_by_match.py)
 [Migratory Birds](https://github.com/Ysoroko/HackerRank/blob/master/Python/migratory_birds.py)
+[Deque](https://github.com/Ysoroko/HackerRank/blob/master/Python/deque.py)
 
 
