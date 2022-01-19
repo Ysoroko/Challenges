@@ -28,5 +28,6 @@ Work in progress
 [Migratory Birds](https://github.com/Ysoroko/HackerRank/blob/master/Python/migratory_birds.py)
 [Deque](https://github.com/Ysoroko/HackerRank/blob/master/Python/deque.py)
 [Caesar Cipher](https://github.com/Ysoroko/HackerRank/blob/master/Python/caesar_cipher.py)
+[Diagonal Difference](https://github.com/Ysoroko/HackerRank/blob/master/Python/diagonal_difference.py)
 
 
