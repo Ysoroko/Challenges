@@ -24,10 +24,9 @@ from collections import Counter
 def sockMerchant(n, ar):
     ret = 0
 
-    s = set(ar)
     c = Counter(ar)
 
-    for elem in s:
+    for elem in c.values():
         ret += c[elem] // 2
 
     return ret
