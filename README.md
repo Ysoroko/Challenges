@@ -29,5 +29,6 @@ Work in progress
 [Deque](https://github.com/Ysoroko/HackerRank/blob/master/Python/deque.py)
 [Caesar Cipher](https://github.com/Ysoroko/HackerRank/blob/master/Python/caesar_cipher.py)
 [Diagonal Difference](https://github.com/Ysoroko/HackerRank/blob/master/Python/diagonal_difference.py)
+[Zipped](https://github.com/Ysoroko/HackerRank/blob/master/Python/zipped.py)
 
 
