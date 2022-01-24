@@ -31,5 +31,6 @@ Work in progress
 [Diagonal Difference](https://github.com/Ysoroko/HackerRank/blob/master/Python/diagonal_difference.py)
 [Zipped](https://github.com/Ysoroko/HackerRank/blob/master/Python/zipped.py)
 [Maximize It!](https://github.com/Ysoroko/HackerRank/blob/master/Python/maximize_it.py)
+[Dynamic Array](https://github.com/Ysoroko/HackerRank/blob/master/Python/dynamic_array.py)
 
 
