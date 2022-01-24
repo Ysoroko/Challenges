@@ -4,7 +4,7 @@ if __name__ == "__main__":
     lines, m = tuple(map(int, input().split()))
     
     l = list()
-    for i in range(lines):
+    for _ in range(lines):
         new_elem = list(map(lambda x : int(x) * int(x), input().split()))
         # First element is used to show the number of elements on the line, we don't include it in the calculations
         l.append(new_elem[1:])
