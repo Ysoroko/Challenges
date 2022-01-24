@@ -30,6 +30,6 @@ Work in progress
 [Caesar Cipher](https://github.com/Ysoroko/HackerRank/blob/master/Python/caesar_cipher.py)
 [Diagonal Difference](https://github.com/Ysoroko/HackerRank/blob/master/Python/diagonal_difference.py)
 [Zipped](https://github.com/Ysoroko/HackerRank/blob/master/Python/zipped.py)
-[Maximize It!](https://github.com/Ysoroko/HackerRank/blob/master/Python/zipped.py)
+[Maximize It!](https://github.com/Ysoroko/HackerRank/blob/master/Python/maximize_it.py)
 
 
