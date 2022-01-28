@@ -32,5 +32,6 @@ Work in progress
 [Zipped](https://github.com/Ysoroko/HackerRank/blob/master/Python/zipped.py)
 [Maximize It!](https://github.com/Ysoroko/HackerRank/blob/master/Python/maximize_it.py)
 [Dynamic Array](https://github.com/Ysoroko/HackerRank/blob/master/Python/dynamic_array.py)
+[Sum of digits](https://github.com/Ysoroko/HackerRank/blob/master/Python/sum_of_digits.py)
 
 
