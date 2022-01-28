@@ -33,5 +33,6 @@ Work in progress
 [Maximize It!](https://github.com/Ysoroko/HackerRank/blob/master/Python/maximize_it.py)
 [Dynamic Array](https://github.com/Ysoroko/HackerRank/blob/master/Python/dynamic_array.py)
 [Sum of digits](https://github.com/Ysoroko/HackerRank/blob/master/Python/sum_of_digits.py)
+[Cut the sticks](https://github.com/Ysoroko/HackerRank/blob/master/Python/cut_the_sticks.py)
 
 
