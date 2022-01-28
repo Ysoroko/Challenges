@@ -5,7 +5,7 @@
 
 # Recursive answer:
 def digital_root(n):
-    if len(str(n)) == 1:
-        return n
     s = str(n)
+    if len(s) == 1:
+        return n
     return digital_root(sum([int(digit) for digit in s]))
