@@ -38,5 +38,6 @@ Work in progress
 [Minimum Distances](https://github.com/Ysoroko/Challenges/blob/master/Python/minimum_distances.py)
 [Taum and B'day](https://github.com/Ysoroko/Challenges/blob/master/Python/taum_bday.py)
 [Equalize the Array](https://github.com/Ysoroko/Challenges/blob/master/Python/equalize_the_array.py)
+[Chocolate Feast](https://github.com/Ysoroko/Challenges/blob/master/Python/chocolate_feast.py)
 
 
