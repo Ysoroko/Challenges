@@ -34,5 +34,7 @@ Work in progress
 [Dynamic Array](https://github.com/Ysoroko/HackerRank/blob/master/Python/dynamic_array.py)
 [Sum of digits](https://github.com/Ysoroko/HackerRank/blob/master/Python/sum_of_digits.py)
 [Cut the sticks](https://github.com/Ysoroko/HackerRank/blob/master/Python/cut_the_sticks.py)
+[Service Lane](https://github.com/Ysoroko/Challenges/blob/master/Python/service_lane.py)
+[Minimum Distances](https://github.com/Ysoroko/Challenges/blob/master/Python/minimum_distances.py)
 
 
