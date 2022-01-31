@@ -36,5 +36,6 @@ Work in progress
 [Cut the sticks](https://github.com/Ysoroko/HackerRank/blob/master/Python/cut_the_sticks.py)
 [Service Lane](https://github.com/Ysoroko/Challenges/blob/master/Python/service_lane.py)
 [Minimum Distances](https://github.com/Ysoroko/Challenges/blob/master/Python/minimum_distances.py)
+[Taum and B'day](https://github.com/Ysoroko/Challenges/blob/master/Python/taum_bday.py)
 
 
