@@ -39,5 +39,6 @@ Work in progress
 [Taum and B'day](https://github.com/Ysoroko/Challenges/blob/master/Python/taum_bday.py)
 [Equalize the Array](https://github.com/Ysoroko/Challenges/blob/master/Python/equalize_the_array.py)
 [Chocolate Feast](https://github.com/Ysoroko/Challenges/blob/master/Python/chocolate_feast.py)
+[Find the unique numbr](https://github.com/Ysoroko/Challenges/blob/master/Python/find_the_unique_number.py)
 
 
