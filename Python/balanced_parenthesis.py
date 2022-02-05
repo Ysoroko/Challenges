@@ -27,8 +27,4 @@ if __name__ == "__main__":
 					# By default without the index argument given, the argument defaults to -1
 					stack.pop()
 
-	d = {
-	    True : "Not Balanced",
-	    False : "Balanced" 
-	}
-	print(d[len(stack) != 0])
+	print("Balanced" if not len(stack) else "Not Balanced")
