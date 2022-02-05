@@ -41,5 +41,6 @@ Work in progress
 [Chocolate Feast](https://github.com/Ysoroko/Challenges/blob/master/Python/chocolate_feast.py)
 [Find the unique numbr](https://github.com/Ysoroko/Challenges/blob/master/Python/find_the_unique_number.py)
 [Balanced Parenthesis](https://github.com/Ysoroko/Challenges/blob/master/Python/balanced_parenthesis.py)
+[Sandclock Print](https://github.com/Ysoroko/Challenges/blob/master/Python/sandclock_print.py)
 
 
