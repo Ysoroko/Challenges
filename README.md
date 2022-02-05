@@ -40,5 +40,6 @@ Work in progress
 [Equalize the Array](https://github.com/Ysoroko/Challenges/blob/master/Python/equalize_the_array.py)
 [Chocolate Feast](https://github.com/Ysoroko/Challenges/blob/master/Python/chocolate_feast.py)
 [Find the unique numbr](https://github.com/Ysoroko/Challenges/blob/master/Python/find_the_unique_number.py)
+[Balanced Parenthesis](https://github.com/Ysoroko/Challenges/blob/master/Python/balanced_parenthesis.py)
 
 
