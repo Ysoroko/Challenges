@@ -1,6 +1,6 @@
-# HackerRank
+# Challenges
 
-A list of interesting challenges and topics I did on HackerRank website
+A list of interesting challenges and topics I did on HackerRank, Codewars and Codingame websites
 
 Work in progress
 
