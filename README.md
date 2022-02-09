@@ -43,5 +43,6 @@ Work in progress
 [Balanced Parenthesis](https://github.com/Ysoroko/Challenges/blob/master/Python/balanced_parenthesis.py)
 [Sandclock Print](https://github.com/Ysoroko/Challenges/blob/master/Python/sandclock_print.py)
 [N_digits in c numbers](https://github.com/Ysoroko/Challenges/blob/master/Python/n_digits_in_one_digit_numbers.py)
+[Reduce ord](https://github.com/Ysoroko/Challenges/blob/master/Python/reduce_ord.py)
 
 
