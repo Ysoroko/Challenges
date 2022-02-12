@@ -1,5 +1,5 @@
 # Hackerrank challenge
-# Reverse polish notiation
+# Reverse polish notation
 # Example: ["2", "1", "+", "3", "*"] is equal to (2 + 1) * 3 , should output "6"
 
 d = {
