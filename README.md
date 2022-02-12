@@ -47,6 +47,7 @@ Work in progress
 [Voted for everyone](https://github.com/Ysoroko/Challenges/blob/master/Python/voted_for_everyone.py)
 [Str step transformation](https://github.com/Ysoroko/Challenges/blob/master/Python/str_step_transformation.py)
 [RPN](https://github.com/Ysoroko/Challenges/blob/master/Python/rpn.py)
+[RPN2](https://github.com/Ysoroko/Challenges/blob/master/Python/rpn2.py)
 
 
 
