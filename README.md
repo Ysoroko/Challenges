@@ -48,6 +48,7 @@ Work in progress
 [Str step transformation](https://github.com/Ysoroko/Challenges/blob/master/Python/str_step_transformation.py)
 [RPN](https://github.com/Ysoroko/Challenges/blob/master/Python/rpn.py)
 [RPN2](https://github.com/Ysoroko/Challenges/blob/master/Python/rpn2.py)
+[String prices](https://github.com/Ysoroko/Challenges/blob/master/Python/string_prices.py)
 
 
 
