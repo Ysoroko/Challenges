@@ -22,7 +22,7 @@ Work in progress
 [Camel Case](https://github.com/Ysoroko/HackerRank/blob/master/Python/camelcase.py) | [Average aggregate](https://github.com/Ysoroko/Challenges/blob/master/SQL/average_aggregate.sql)
 [Flipping Bits](https://github.com/Ysoroko/HackerRank/blob/master/Python/flipping_bits.py) | [Round aggregate](https://github.com/Ysoroko/Challenges/blob/master/SQL/round_aggregate.sql)
 [Pangrams](https://github.com/Ysoroko/HackerRank/blob/master/Python/pangrams.py) | [Max/min aggregates](https://github.com/Ysoroko/Challenges/blob/master/SQL/max_min_aggregates.sql)
-[Mars Exploration](https://github.com/Ysoroko/HackerRank/blob/master/Python/mars_exploration.py)
+[Mars Exploration](https://github.com/Ysoroko/HackerRank/blob/master/Python/mars_exploration.py) | [Query 2 values](https://github.com/Ysoroko/Challenges/blob/master/SQL/query_2_values.sql)
 [Permuting Two Arrays](https://github.com/Ysoroko/HackerRank/blob/master/Python/permuting_two_arrays.py)
 [Sales by Match](https://github.com/Ysoroko/HackerRank/blob/master/Python/sales_by_match.py)
 [Migratory Birds](https://github.com/Ysoroko/HackerRank/blob/master/Python/migratory_birds.py)
