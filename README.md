@@ -50,6 +50,7 @@ Work in progress
 [RPN2](https://github.com/Ysoroko/Challenges/blob/master/Python/rpn2.py)
 [String prices](https://github.com/Ysoroko/Challenges/blob/master/Python/string_prices.py)
 [Subnet masks](https://github.com/Ysoroko/Challenges/blob/master/Python/subnet_masks.py)
+[TO Palyndrome](https://github.com/Ysoroko/Challenges/blob/master/Python/to_palyndrome.py)
 
 
 
