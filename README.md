@@ -51,6 +51,7 @@ Work in progress
 [String prices](https://github.com/Ysoroko/Challenges/blob/master/Python/string_prices.py)
 [Subnet masks](https://github.com/Ysoroko/Challenges/blob/master/Python/subnet_masks.py)
 [To Palyndrome](https://github.com/Ysoroko/Challenges/blob/master/Python/to_palyndrome.py)
+[DNA Count](https://github.com/Ysoroko/Challenges/blob/master/Python/dna_count.py)
 
 
 
