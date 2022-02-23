@@ -53,6 +53,7 @@ Work in progress
 [To Palyndrome](https://github.com/Ysoroko/Challenges/blob/master/Python/to_palyndrome.py)
 [DNA Count](https://github.com/Ysoroko/Challenges/blob/master/Python/dna_count.py)
 [Bouncing ball](https://github.com/Ysoroko/Challenges/blob/master/Python/bouncing_balls_recursive.py)
+[Population Growth](https://github.com/Ysoroko/Challenges/blob/master/Python/growth_of_a_population.py)
 
 
 
