@@ -52,6 +52,7 @@ Work in progress
 [Subnet masks](https://github.com/Ysoroko/Challenges/blob/master/Python/subnet_masks.py)
 [To Palyndrome](https://github.com/Ysoroko/Challenges/blob/master/Python/to_palyndrome.py)
 [DNA Count](https://github.com/Ysoroko/Challenges/blob/master/Python/dna_count.py)
+[Bouncing ball](https://github.com/Ysoroko/Challenges/blob/master/Python/bouncing_balls_recursive.py)
 
 
 
