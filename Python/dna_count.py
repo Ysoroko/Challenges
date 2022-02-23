@@ -1,4 +1,5 @@
 # Codingame challenge
+# Shortest code
 # The program:
 # The nucleotides inside a DNA sequence can be represented by a string composed by A, C, G and T.
 # A sample string representing a DNA sequence is "ATGCTTCAGAAAAGGTCAGCG".
